@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.6">
   <diagram name="Page-1" id="lagUFcK879aq476OS2vd">
-    <mxGraphModel dx="2894" dy="2635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1702" dy="2031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -249,7 +249,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1180" y="1641" />
-              <mxPoint x="1180" y="1162" />
+              <mxPoint x="1180" y="1150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -530,28 +530,28 @@
         <mxCell id="aLgLfqHZRVv7RUgC-N-s-3" value="Date d&#39;ajout" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="aLgLfqHZRVv7RUgC-N-s-1" vertex="1">
           <mxGeometry y="78" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="yN3QinqYYeC2XZBj6UBa-1" value="Dossier_facture" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yN3QinqYYeC2XZBj6UBa-1" value="Dossier_facture" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="-370" width="140" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="yN3QinqYYeC2XZBj6UBa-2" value="Id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="yN3QinqYYeC2XZBj6UBa-1">
+        <mxCell id="yN3QinqYYeC2XZBj6UBa-2" value="Id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="yN3QinqYYeC2XZBj6UBa-1" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="yN3QinqYYeC2XZBj6UBa-3" value="Facture_id(code&amp;nbsp; facture)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="yN3QinqYYeC2XZBj6UBa-1">
+        <mxCell id="yN3QinqYYeC2XZBj6UBa-3" value="Facture_id(code&amp;nbsp; facture)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="yN3QinqYYeC2XZBj6UBa-1" vertex="1">
           <mxGeometry y="52" width="140" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="yN3QinqYYeC2XZBj6UBa-4" value="Dossier_id (Numéro dossier)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="yN3QinqYYeC2XZBj6UBa-1">
+        <mxCell id="yN3QinqYYeC2XZBj6UBa-4" value="Dossier_id (Numéro dossier)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="yN3QinqYYeC2XZBj6UBa-1" vertex="1">
           <mxGeometry y="100" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yN3QinqYYeC2XZBj6UBa-5" value="Numéro_dossier" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="yN3QinqYYeC2XZBj6UBa-1">
+        <mxCell id="yN3QinqYYeC2XZBj6UBa-5" value="Numéro_dossier" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="yN3QinqYYeC2XZBj6UBa-1" vertex="1">
           <mxGeometry y="160" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yN3QinqYYeC2XZBj6UBa-6" value="Montant en devise" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="yN3QinqYYeC2XZBj6UBa-1">
+        <mxCell id="yN3QinqYYeC2XZBj6UBa-6" value="Montant en devise" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="yN3QinqYYeC2XZBj6UBa-1" vertex="1">
           <mxGeometry y="200" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yN3QinqYYeC2XZBj6UBa-7" value="Montant en devise locale" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="yN3QinqYYeC2XZBj6UBa-1">
+        <mxCell id="yN3QinqYYeC2XZBj6UBa-7" value="Montant en devise locale" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="yN3QinqYYeC2XZBj6UBa-1" vertex="1">
           <mxGeometry y="240" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yN3QinqYYeC2XZBj6UBa-8" value="Devise_id (code de la devise)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="yN3QinqYYeC2XZBj6UBa-1">
+        <mxCell id="yN3QinqYYeC2XZBj6UBa-8" value="Devise_id (code de la devise)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="yN3QinqYYeC2XZBj6UBa-1" vertex="1">
           <mxGeometry y="280" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
